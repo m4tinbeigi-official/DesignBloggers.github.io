@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>رادار طراحان، UI/UX و هنرمندان دیجیتال ایران | DesignBloggers IR</title>
+  <meta name="description" content="دایرکتوری جامع معرفی طراحان محصول، دیزاینرهای UI/UX، تصویرسازان، موشن‌گرافیست‌ها و آرتیست‌های خلاق وب فارسی">
+  
+  <!-- Tailwind CSS CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <!-- Font Awesome Icons -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+  <!-- Vazirmatn Font -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@v33.003/Vazirmatn-font-face.css">
+
+  <script>
+    tailwind.config = {
+      darkMode: 'class',
+      theme: {
+        extend: {
+          fontFamily: {
+            sans: ['Vazirmatn', 'sans-serif'],
+          }
+        }
+      }
+    }
+  </script>
+
+  <style>
+    body {
+      font-family: 'Vazirmatn', sans-serif;
+      background-color: #060913;
+      color: #f1f5f9;
+      margin: 0;
+      padding: 0;
+    }
+    .glass-nav {
+      background: rgba(10, 15, 29, 0.85);
+      backdrop-filter: blur(16px);
+      border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+    }
+    .glass-box {
+      background: rgba(15, 23, 42, 0.7);
+      backdrop-filter: blur(12px);
+      border: 1px solid rgba(255, 255, 255, 0.07);
+    }
+    .blogger-card {
+      background: #0f172a;
+      border: 1px solid #1e293b;
+      transition: all 0.25s ease-in-out;
+    }
+    .blogger-card:hover {
+      border-color: #38bdf8;
+      transform: translateY(-3px);
+      box-shadow: 0 10px 25px -5px rgba(56, 189, 248, 0.15);
+    }
+  </style>
+</head>
+<body class="min-h-screen flex flex-col antialiased selection:bg-sky-500 selection:text-white">
+
+  <!-- Header -->
+  <header class="sticky top-0 z-50 glass-nav">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 h-20 flex items-center justify-between">
+      <div class="flex items-center gap-3">
+        <div class="w-11 h-11 rounded-xl bg-gradient-to-tr from-purple-500 to-pink-500 flex items-center justify-center text-slate-950 font-black text-xl shadow-lg">
+          <i class="fa-solid fa-layer-group"></i>
+        </div>
+        <div>
+          <h1 class="text-xl font-black bg-gradient-to-r from-purple-500 to-pink-500 bg-clip-text text-transparent">
+            DesignBloggers IR
+          </h1>
+          <p class="text-xs text-slate-400">رصد برخط جامعه دیزاین و هنرهای بصری</p>
+        </div>
+      </div>
+      
+      <div class="flex items-center gap-3">
+        <a href="https://irblogger.github.io/" target="_blank" class="px-4 py-2 rounded-lg bg-sky-500 hover:bg-sky-400 text-slate-950 font-bold text-xs sm:text-sm shadow-md transition flex items-center gap-2">
+          <i class="fa-solid fa-house text-base"></i>
+          <span>هاب مرکزی IRBlogger</span>
+        </a>
+        <a href="https://github.com/m4tinbeigi-official/DesignBloggers.github.io" target="_blank" class="p-2.5 rounded-lg bg-slate-800 hover:bg-slate-700 text-slate-300 transition flex items-center justify-center border border-slate-700">
+          <i class="fa-brands fa-github text-base"></i>
+        </a>
+      </div>
+    </div>
+  </header>
+
+  <!-- Hero Section -->
+  <section class="py-10 px-4 max-w-7xl mx-auto w-full text-center">
+    <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-slate-900/90 border border-slate-800 text-sky-400 text-xs font-semibold mb-4">
+      <span class="w-2 h-2 rounded-full bg-emerald-400 animate-pulse"></span>
+      دایرکتوری رسمی و آزاد
+    </div>
+    <h2 class="text-2xl sm:text-4xl font-black text-white mb-3">
+      دایرکتوری جامع معرفی طراحان محصول، دیزاینرهای UI/UX، تصویرسازان، موشن‌گرافیست‌ها و آرتیست‌های خلاق وب فارسی
+    </h2>
+    <p class="text-slate-400 text-xs sm:text-sm max-w-2xl mx-auto mb-8 leading-relaxed">
+      تحلیل آماری، بررسی تخصص‌ها، سوابق و معرفی فعالان و چهره‌های برجسته این حوزه در ایران.
+    </p>
+
+    <!-- Search and Filter Bar -->
+    <div class="max-w-3xl mx-auto glass-box rounded-2xl p-3 sm:p-4 mb-8 shadow-xl">
+      <div class="flex flex-col sm:flex-row gap-3">
+        <div class="relative flex-1">
+          <i class="fa-solid fa-magnifying-glass absolute right-4 top-1/2 -translate-y-1/2 text-slate-500"></i>
+          <input type="text" id="searchInput" placeholder="جستجوی نام، آیدی، تخصص یا بیوگرافی..." class="w-full bg-slate-900/90 border border-slate-700/80 rounded-xl pr-11 pl-4 py-2.5 text-sm text-slate-200 focus:outline-none focus:border-sky-500 transition">
+        </div>
+      </div>
+
+      <!-- Categories -->
+      <div class="flex flex-wrap items-center justify-center gap-2 mt-4 pt-3 border-t border-slate-800" id="categoryFilters">
+        <button class="cat-filter active px-3 py-1 rounded-lg text-xs font-medium bg-sky-500 text-slate-950 transition" data-cat="all">همه دسته‌ها</button>
+        <button class="cat-filter px-3 py-1 rounded-lg text-xs font-medium bg-slate-800 text-slate-300 hover:bg-slate-700 transition" data-cat="طراحی محصول و UI/UX">طراحی محصول و UI/UX</button>
+<button class="cat-filter px-3 py-1 rounded-lg text-xs font-medium bg-slate-800 text-slate-300 hover:bg-slate-700 transition" data-cat="موشن دیزاین و انیمیشن">موشن دیزاین و انیمیشن</button>
+<button class="cat-filter px-3 py-1 rounded-lg text-xs font-medium bg-slate-800 text-slate-300 hover:bg-slate-700 transition" data-cat="تصویرسازی و کاراکتر">تصویرسازی و کاراکتر</button>
+<button class="cat-filter px-3 py-1 rounded-lg text-xs font-medium bg-slate-800 text-slate-300 hover:bg-slate-700 transition" data-cat="برندینگ و گرافیک">برندینگ و گرافیک</button>
+      </div>
+    </div>
+  </section>
+
+  <!-- Bloggers Grid -->
+  <main class="max-w-7xl mx-auto px-4 sm:px-6 pb-20 flex-1 w-full">
+    <div class="flex items-center justify-between mb-6">
+      <h3 class="text-lg font-bold text-white flex items-center gap-2">
+        <i class="fa-solid fa-users text-sky-400"></i>
+        <span>لیست تولیدکنندگان محتوا و متخصصین</span>
+      </h3>
+      <span class="text-xs text-slate-400 bg-slate-800/80 px-3 py-1 rounded-lg border border-slate-700/50" id="countBadge">4 نفر ثبت شده</span>
+    </div>
+
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6" id="bloggersGrid">
+      
+      <div class="blogger-card rounded-2xl p-5 flex flex-col justify-between" data-category="برندینگ و گرافیک">
+        <div>
+          <div class="flex items-start gap-3.5 mb-4">
+            <div class="relative">
+              <img src="https://api.dicebear.com/7.x/bottts/svg?seed=salehtasbihi" alt="صالح تسبیحی (طراحی و هنر)" class="w-14 h-14 rounded-xl object-cover bg-slate-800 border border-slate-700" onerror="this.src='https://api.dicebear.com/7.x/identicon/svg?seed=salehtasbihi'">
+              <span class="absolute -bottom-1 -right-1 w-4 h-4 rounded-full bg-sky-500 text-white flex items-center justify-center text-[9px] shadow" title="تایید شده"><i class="fa-solid fa-check"></i></span>
+            </div>
+            <div class="flex-1 min-w-0">
+              <h4 class="font-bold text-base text-white truncate">صالح تسبیحی (طراحی و هنر)</h4>
+              <p class="text-xs text-sky-400 font-medium truncate mt-0.5">طراح گرافیک و منتقد هنرهای تجسمی</p>
+              <span class="inline-block text-[11px] px-2 py-0.5 rounded bg-slate-800 text-slate-300 mt-1 border border-slate-700/50">برندینگ و گرافیک</span>
+            </div>
+          </div>
+
+          <p class="text-xs text-slate-400 leading-relaxed line-clamp-3 mb-4">
+            آموزش تایپوگرافی، تاریخ هنر، نقد پوستر و اصول هویت بصری برند.
+          </p>
+        </div>
+
+        <div class="pt-3 border-t border-slate-800/80 flex items-center justify-between text-xs">
+          <div class="flex items-center gap-3 text-slate-400">
+            <span><i class="fa-solid fa-users text-slate-500 ml-1"></i>180K</span>
+            <span><i class="fa-solid fa-chart-line text-emerald-400 ml-1"></i>5.8%</span>
+          </div>
+          <a href="https://instagram.com/salehtasbihi" target="_blank" rel="noopener" class="text-sky-400 hover:text-sky-300 font-mono font-medium flex items-center gap-1">
+            <span>@salehtasbihi</span>
+            <i class="fa-solid fa-arrow-up-right-from-square text-[10px]"></i>
+          </a>
+        </div>
+      </div>
+
+
+      <div class="blogger-card rounded-2xl p-5 flex flex-col justify-between" data-category="طراحی محصول و UI/UX">
+        <div>
+          <div class="flex items-start gap-3.5 mb-4">
+            <div class="relative">
+              <img src="https://api.dicebear.com/7.x/bottts/svg?seed=maryam_ux" alt="مریم رضایی (UX Designer)" class="w-14 h-14 rounded-xl object-cover bg-slate-800 border border-slate-700" onerror="this.src='https://api.dicebear.com/7.x/identicon/svg?seed=maryam_ux'">
+              <span class="absolute -bottom-1 -right-1 w-4 h-4 rounded-full bg-sky-500 text-white flex items-center justify-center text-[9px] shadow" title="تایید شده"><i class="fa-solid fa-check"></i></span>
+            </div>
+            <div class="flex-1 min-w-0">
+              <h4 class="font-bold text-base text-white truncate">مریم رضایی (UX Designer)</h4>
+              <p class="text-xs text-sky-400 font-medium truncate mt-0.5">طراح ارشد تجربه کاربری و پژوهشگر UX</p>
+              <span class="inline-block text-[11px] px-2 py-0.5 rounded bg-slate-800 text-slate-300 mt-1 border border-slate-700/50">طراحی محصول و UI/UX</span>
+            </div>
+          </div>
+
+          <p class="text-xs text-slate-400 leading-relaxed line-clamp-3 mb-4">
+            آموزش کاربرپژوهی، سیستم‌های دیزاین در فیگما، متدهای تست کاربردپذیری.
+          </p>
+        </div>
+
+        <div class="pt-3 border-t border-slate-800/80 flex items-center justify-between text-xs">
+          <div class="flex items-center gap-3 text-slate-400">
+            <span><i class="fa-solid fa-users text-slate-500 ml-1"></i>240K</span>
+            <span><i class="fa-solid fa-chart-line text-emerald-400 ml-1"></i>6.5%</span>
+          </div>
+          <a href="https://instagram.com/maryam_ux" target="_blank" rel="noopener" class="text-sky-400 hover:text-sky-300 font-mono font-medium flex items-center gap-1">
+            <span>@maryam_ux</span>
+            <i class="fa-solid fa-arrow-up-right-from-square text-[10px]"></i>
+          </a>
+        </div>
+      </div>
+
+
+      <div class="blogger-card rounded-2xl p-5 flex flex-col justify-between" data-category="موشن دیزاین و انیمیشن">
+        <div>
+          <div class="flex items-start gap-3.5 mb-4">
+            <div class="relative">
+              <img src="https://api.dicebear.com/7.x/bottts/svg?seed=amirmotion" alt="امیر موشن (Motion Artist)" class="w-14 h-14 rounded-xl object-cover bg-slate-800 border border-slate-700" onerror="this.src='https://api.dicebear.com/7.x/identicon/svg?seed=amirmotion_lab'">
+              <span class="absolute -bottom-1 -right-1 w-4 h-4 rounded-full bg-sky-500 text-white flex items-center justify-center text-[9px] shadow" title="تایید شده"><i class="fa-solid fa-check"></i></span>
+            </div>
+            <div class="flex-1 min-w-0">
+              <h4 class="font-bold text-base text-white truncate">امیر موشن (Motion Artist)</h4>
+              <p class="text-xs text-sky-400 font-medium truncate mt-0.5">کارگردان هنری و موشن دیزاینر</p>
+              <span class="inline-block text-[11px] px-2 py-0.5 rounded bg-slate-800 text-slate-300 mt-1 border border-slate-700/50">موشن دیزاین و انیمیشن</span>
+            </div>
+          </div>
+
+          <p class="text-xs text-slate-400 leading-relaxed line-clamp-3 mb-4">
+            خلق انیمیشن‌های دوبعدی و سه‌بعدی، آموزش افتر افکت و بلندر برای هنرمندان دیجیتال.
+          </p>
+        </div>
+
+        <div class="pt-3 border-t border-slate-800/80 flex items-center justify-between text-xs">
+          <div class="flex items-center gap-3 text-slate-400">
+            <span><i class="fa-solid fa-users text-slate-500 ml-1"></i>310K</span>
+            <span><i class="fa-solid fa-chart-line text-emerald-400 ml-1"></i>7.1%</span>
+          </div>
+          <a href="https://instagram.com/amirmotion_lab" target="_blank" rel="noopener" class="text-sky-400 hover:text-sky-300 font-mono font-medium flex items-center gap-1">
+            <span>@amirmotion_lab</span>
+            <i class="fa-solid fa-arrow-up-right-from-square text-[10px]"></i>
+          </a>
+        </div>
+      </div>
+
+
+      <div class="blogger-card rounded-2xl p-5 flex flex-col justify-between" data-category="تصویرسازی و کاراکتر">
+        <div>
+          <div class="flex items-start gap-3.5 mb-4">
+            <div class="relative">
+              <img src="https://api.dicebear.com/7.x/bottts/svg?seed=illustration" alt="استودیو کاراکتر" class="w-14 h-14 rounded-xl object-cover bg-slate-800 border border-slate-700" onerror="this.src='https://api.dicebear.com/7.x/identicon/svg?seed=persian_illustration'">
+              <span class="absolute -bottom-1 -right-1 w-4 h-4 rounded-full bg-sky-500 text-white flex items-center justify-center text-[9px] shadow" title="تایید شده"><i class="fa-solid fa-check"></i></span>
+            </div>
+            <div class="flex-1 min-w-0">
+              <h4 class="font-bold text-base text-white truncate">استودیو کاراکتر</h4>
+              <p class="text-xs text-sky-400 font-medium truncate mt-0.5">تصویرسازی دیجیتال و طراحی کاراکتر</p>
+              <span class="inline-block text-[11px] px-2 py-0.5 rounded bg-slate-800 text-slate-300 mt-1 border border-slate-700/50">تصویرسازی و کاراکتر</span>
+            </div>
+          </div>
+
+          <p class="text-xs text-slate-400 leading-relaxed line-clamp-3 mb-4">
+            مرجع معرفی تصویرگران ایرانی، آموزش نقاشی دیجیتال و کانسپت آرت.
+          </p>
+        </div>
+
+        <div class="pt-3 border-t border-slate-800/80 flex items-center justify-between text-xs">
+          <div class="flex items-center gap-3 text-slate-400">
+            <span><i class="fa-solid fa-users text-slate-500 ml-1"></i>195K</span>
+            <span><i class="fa-solid fa-chart-line text-emerald-400 ml-1"></i>5.3%</span>
+          </div>
+          <a href="https://instagram.com/persian_illustration" target="_blank" rel="noopener" class="text-sky-400 hover:text-sky-300 font-mono font-medium flex items-center gap-1">
+            <span>@persian_illustration</span>
+            <i class="fa-solid fa-arrow-up-right-from-square text-[10px]"></i>
+          </a>
+        </div>
+      </div>
+
+    </div>
+  </main>
+
+  <!-- Footer -->
+  <footer class="border-t border-slate-800/80 py-8 bg-slate-950/60 mt-auto text-center text-xs text-slate-500">
+    <div class="max-w-7xl mx-auto px-4 flex flex-col sm:flex-row items-center justify-between gap-4">
+      <div>پروژه مستقل معرفی فعالان وب فارسی • DesignBloggers IR</div>
+      <div class="flex items-center gap-4">
+        <a href="https://irblogger.github.io/" target="_blank" class="hover:text-slate-300 transition">IRBlogger Hub</a>
+        <a href="https://github.com/m4tinbeigi-official/DesignBloggers.github.io" target="_blank" class="hover:text-slate-300 transition">مخزن گیت‌هاب</a>
+      </div>
+    </div>
+  </footer>
+
+  <script>
+    const searchInput = document.getElementById('searchInput');
+    const catFilters = document.querySelectorAll('.cat-filter');
+    const cards = document.querySelectorAll('.blogger-card');
+    const countBadge = document.getElementById('countBadge');
+
+    let currentCat = 'all';
+
+    function filterCards() {
+      const query = searchInput.value.toLowerCase().trim();
+      let visible = 0;
+
+      cards.forEach(card => {
+        const text = card.textContent.toLowerCase();
+        const cat = card.getAttribute('data-category');
+        const matchQuery = text.includes(query);
+        const matchCat = (currentCat === 'all' || cat === currentCat);
+
+        if (matchQuery && matchCat) {
+          card.style.display = 'flex';
+          visible++;
+        } else {
+          card.style.display = 'none';
+        }
+      });
+
+      countBadge.textContent = `${visible} نفر نمایش داده شده`;
+    }
+
+    searchInput.addEventListener('input', filterCards);
+
+    catFilters.forEach(btn => {
+      btn.addEventListener('click', () => {
+        catFilters.forEach(b => {
+          b.classList.remove('bg-sky-500', 'text-slate-950');
+          b.classList.add('bg-slate-800', 'text-slate-300');
+        });
+        btn.classList.add('bg-sky-500', 'text-slate-950');
+        btn.classList.remove('bg-slate-800', 'text-slate-300');
+        currentCat = btn.getAttribute('data-cat');
+        filterCards();
+      });
+    });
+  </script>
+</body>
+</html>
