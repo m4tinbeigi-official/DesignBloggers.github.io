@@ -8,7 +8,7 @@
     "engagement": "5.8%",
     "role": "متخصص برندینگ و تایپوگرافی",
     "verified": true,
-    "avatar": "avatars/salehtasbihi.svg"
+    "avatar": "avatars/salehtasbihi.jpg"
   },
   {
     "name": "مریم رضایی (Product Design)",
@@ -19,7 +19,7 @@
     "engagement": "6.5%",
     "role": "متخصص طراحی محصول و UI/UX",
     "verified": true,
-    "avatar": "avatars/maryam_ux.svg"
+    "avatar": "avatars/maryam_ux.jpg"
   },
   {
     "name": "امیر موشن (Motion Lab)",
@@ -30,7 +30,7 @@
     "engagement": "7.1%",
     "role": "متخصص موشن دیزاین و سه‌بعدی",
     "verified": true,
-    "avatar": "avatars/amirmotion_lab.svg"
+    "avatar": "avatars/amirmotion_lab.jpg"
   },
   {
     "name": "استودیو کاراکتر دیزاین",
@@ -41,7 +41,7 @@
     "engagement": "5.3%",
     "role": "متخصص تصویرسازی و کاراکتر",
     "verified": true,
-    "avatar": "avatars/persian_illustration.svg"
+    "avatar": "avatars/persian_illustration.jpg"
   },
   {
     "name": "پویان یوایکس",
@@ -52,7 +52,7 @@
     "engagement": "7.4%",
     "role": "فعال حوزه طراحی محصول و UI/UX",
     "verified": true,
-    "avatar": "avatars/design_1_پویان_یوایکس.svg"
+    "avatar": "avatars/design_1_پویان_یوایکس.jpg"
   },
   {
     "name": "سارا موشن",
@@ -63,7 +63,7 @@
     "engagement": "5.4%",
     "role": "فعال حوزه موشن دیزاین و سه‌بعدی",
     "verified": false,
-    "avatar": "avatars/design_2_سارا_موشن.svg"
+    "avatar": "avatars/design_2_سارا_موشن.jpg"
   },
   {
     "name": "علی تایپو",
@@ -74,7 +74,7 @@
     "engagement": "6.2%",
     "role": "فعال حوزه تصویرسازی و کاراکتر",
     "verified": false,
-    "avatar": "avatars/design_3_علی_تایپو.svg"
+    "avatar": "avatars/design_3_علی_تایپو.jpg"
   },
   {
     "name": "ندا تصویرساز",
@@ -85,7 +85,7 @@
     "engagement": "5.1%",
     "role": "فعال حوزه برندینگ و تایپوگرافی",
     "verified": false,
-    "avatar": "avatars/design_4_ندا_تصویرساز.svg"
+    "avatar": "avatars/design_4_ندا_تصویرساز.jpg"
   },
   {
     "name": "حسین فیگما",
@@ -96,7 +96,7 @@
     "engagement": "6.4%",
     "role": "فعال حوزه دیزاین سیستم و فیگما",
     "verified": true,
-    "avatar": "avatars/design_5_حسین_فیگما.svg"
+    "avatar": "avatars/design_5_حسین_فیگما.jpg"
   },
   {
     "name": "مهسا آیکون",
@@ -107,7 +107,7 @@
     "engagement": "7.4%",
     "role": "فعال حوزه طراحی محصول و UI/UX",
     "verified": false,
-    "avatar": "avatars/design_6_مهسا_آیکون.svg"
+    "avatar": "avatars/design_6_مهسا_آیکون.jpg"
   },
   {
     "name": "دانیال بلندر",
@@ -118,7 +118,7 @@
     "engagement": "5.6%",
     "role": "فعال حوزه موشن دیزاین و سه‌بعدی",
     "verified": false,
-    "avatar": "avatars/design_7_دانیال_بلندر.svg"
+    "avatar": "avatars/design_7_دانیال_بلندر.jpg"
   },
   {
     "name": "سوگند برندیست",
@@ -129,7 +129,7 @@
     "engagement": "7.9%",
     "role": "فعال حوزه تصویرسازی و کاراکتر",
     "verified": false,
-    "avatar": "avatars/design_8_سوگند_برندیست.svg"
+    "avatar": "avatars/design_8_سوگند_برندیست.jpg"
   },
   {
     "name": "بهنام کاراکتر",
@@ -140,7 +140,7 @@
     "engagement": "4.1%",
     "role": "فعال حوزه برندینگ و تایپوگرافی",
     "verified": true,
-    "avatar": "avatars/design_9_بهنام_کاراکتر.svg"
+    "avatar": "avatars/design_9_بهنام_کاراکتر.jpg"
   },
   {
     "name": "فاطمه یوآی",
@@ -151,7 +151,7 @@
     "engagement": "4.6%",
     "role": "فعال حوزه دیزاین سیستم و فیگما",
     "verified": false,
-    "avatar": "avatars/design_10_فاطمه_یوآی.svg"
+    "avatar": "avatars/design_10_فاطمه_یوآی.jpg"
   },
   {
     "name": "کامران کانسپت",
@@ -162,7 +162,7 @@
     "engagement": "5.7%",
     "role": "فعال حوزه طراحی محصول و UI/UX",
     "verified": false,
-    "avatar": "avatars/design_11_کامران_کانسپت.svg"
+    "avatar": "avatars/design_11_کامران_کانسپت.jpg"
   },
   {
     "name": "شیما فونت",
@@ -173,7 +173,7 @@
     "engagement": "5.3%",
     "role": "فعال حوزه موشن دیزاین و سه‌بعدی",
     "verified": false,
-    "avatar": "avatars/design_12_شیما_فونت.svg"
+    "avatar": "avatars/design_12_شیما_فونت.jpg"
   },
   {
     "name": "فرزاد پروتوتایپ",
@@ -184,7 +184,7 @@
     "engagement": "4.4%",
     "role": "فعال حوزه تصویرسازی و کاراکتر",
     "verified": true,
-    "avatar": "avatars/design_13_فرزاد_پروتوتایپ.svg"
+    "avatar": "avatars/design_13_فرزاد_پروتوتایپ.jpg"
   },
   {
     "name": "رویا رندر",
@@ -195,7 +195,7 @@
     "engagement": "4.0%",
     "role": "فعال حوزه برندینگ و تایپوگرافی",
     "verified": false,
-    "avatar": "avatars/design_14_رویا_رندر.svg"
+    "avatar": "avatars/design_14_رویا_رندر.jpg"
   },
   {
     "name": "نوید سی‌جی‌آی",
@@ -206,7 +206,7 @@
     "engagement": "5.4%",
     "role": "فعال حوزه دیزاین سیستم و فیگما",
     "verified": false,
-    "avatar": "avatars/design_15_نوید_سیجیآی.svg"
+    "avatar": "avatars/design_15_نوید_سیجیآی.jpg"
   },
   {
     "name": "هستی دیزاینر",
@@ -217,7 +217,7 @@
     "engagement": "3.4%",
     "role": "فعال حوزه طراحی محصول و UI/UX",
     "verified": false,
-    "avatar": "avatars/design_16_هستی_دیزاینر.svg"
+    "avatar": "avatars/design_16_هستی_دیزاینر.jpg"
   },
   {
     "name": "شهرام افتر",
@@ -228,7 +228,7 @@
     "engagement": "3.2%",
     "role": "فعال حوزه موشن دیزاین و سه‌بعدی",
     "verified": true,
-    "avatar": "avatars/design_17_شهرام_افتر.svg"
+    "avatar": "avatars/design_17_شهرام_افتر.jpg"
   },
   {
     "name": "مونا کالربار",
@@ -239,7 +239,7 @@
     "engagement": "6.6%",
     "role": "فعال حوزه تصویرسازی و کاراکتر",
     "verified": false,
-    "avatar": "avatars/design_18_مونا_کالربار.svg"
+    "avatar": "avatars/design_18_مونا_کالربار.jpg"
   },
   {
     "name": "پیمان بردار",
@@ -250,7 +250,7 @@
     "engagement": "3.4%",
     "role": "فعال حوزه برندینگ و تایپوگرافی",
     "verified": false,
-    "avatar": "avatars/design_19_پیمان_بردار.svg"
+    "avatar": "avatars/design_19_پیمان_بردار.jpg"
   },
   {
     "name": "ستاره هنرنو",
@@ -261,7 +261,7 @@
     "engagement": "4.4%",
     "role": "فعال حوزه دیزاین سیستم و فیگما",
     "verified": false,
-    "avatar": "avatars/design_20_ستاره_هنرنو.svg"
+    "avatar": "avatars/design_20_ستاره_هنرنو.jpg"
   },
   {
     "name": "آرمین وکتور",
@@ -272,7 +272,7 @@
     "engagement": "3.8%",
     "role": "فعال حوزه طراحی محصول و UI/UX",
     "verified": true,
-    "avatar": "avatars/design_21_آرمین_وکتور.svg"
+    "avatar": "avatars/design_21_آرمین_وکتور.jpg"
   },
   {
     "name": "پریا لایوت",
@@ -283,7 +283,7 @@
     "engagement": "5.5%",
     "role": "فعال حوزه موشن دیزاین و سه‌بعدی",
     "verified": false,
-    "avatar": "avatars/design_22_پریا_لایوت.svg"
+    "avatar": "avatars/design_22_پریا_لایوت.jpg"
   },
   {
     "name": "کیان تایپوفیس",
@@ -294,7 +294,7 @@
     "engagement": "5.5%",
     "role": "فعال حوزه تصویرسازی و کاراکتر",
     "verified": false,
-    "avatar": "avatars/design_23_کیان_تایپوفیس.svg"
+    "avatar": "avatars/design_23_کیان_تایپوفیس.jpg"
   },
   {
     "name": "لاله متریال",
@@ -305,7 +305,7 @@
     "engagement": "7.4%",
     "role": "فعال حوزه برندینگ و تایپوگرافی",
     "verified": false,
-    "avatar": "avatars/design_24_لاله_متریال.svg"
+    "avatar": "avatars/design_24_لاله_متریال.jpg"
   },
   {
     "name": "سینا دیزاین",
@@ -316,7 +316,7 @@
     "engagement": "6.9%",
     "role": "فعال حوزه دیزاین سیستم و فیگما",
     "verified": true,
-    "avatar": "avatars/design_25_سینا_دیزاین.svg"
+    "avatar": "avatars/design_25_سینا_دیزاین.jpg"
   },
   {
     "name": "فرشته گرافیک",
@@ -327,7 +327,7 @@
     "engagement": "4.6%",
     "role": "فعال حوزه طراحی محصول و UI/UX",
     "verified": false,
-    "avatar": "avatars/design_26_فرشته_گرافیک.svg"
+    "avatar": "avatars/design_26_فرشته_گرافیک.jpg"
   },
   {
     "name": "مهرداد میکر",
@@ -338,7 +338,7 @@
     "engagement": "7.5%",
     "role": "فعال حوزه موشن دیزاین و سه‌بعدی",
     "verified": false,
-    "avatar": "avatars/design_27_مهرداد_میکر.svg"
+    "avatar": "avatars/design_27_مهرداد_میکر.jpg"
   },
   {
     "name": "سحر فیگمااستار",
@@ -349,7 +349,7 @@
     "engagement": "7.3%",
     "role": "فعال حوزه تصویرسازی و کاراکتر",
     "verified": false,
-    "avatar": "avatars/design_28_سحر_فیگمااستار.svg"
+    "avatar": "avatars/design_28_سحر_فیگمااستار.jpg"
   },
   {
     "name": "ارسلان ویژوال",
@@ -360,7 +360,7 @@
     "engagement": "6.4%",
     "role": "فعال حوزه برندینگ و تایپوگرافی",
     "verified": true,
-    "avatar": "avatars/design_29_ارسلان_ویژوال.svg"
+    "avatar": "avatars/design_29_ارسلان_ویژوال.jpg"
   },
   {
     "name": "بهاره آرت‌ورک",
@@ -371,7 +371,7 @@
     "engagement": "4.9%",
     "role": "فعال حوزه دیزاین سیستم و فیگما",
     "verified": false,
-    "avatar": "avatars/design_30_بهاره_آرتورک.svg"
+    "avatar": "avatars/design_30_بهاره_آرتورک.jpg"
   },
   {
     "name": "مازیار برندینگ",
@@ -382,7 +382,7 @@
     "engagement": "3.4%",
     "role": "فعال حوزه طراحی محصول و UI/UX",
     "verified": false,
-    "avatar": "avatars/design_31_مازیار_برندینگ.svg"
+    "avatar": "avatars/design_31_مازیار_برندینگ.jpg"
   },
   {
     "name": "غزاله تصویرگر",
@@ -393,7 +393,7 @@
     "engagement": "3.8%",
     "role": "فعال حوزه موشن دیزاین و سه‌بعدی",
     "verified": false,
-    "avatar": "avatars/design_32_غزاله_تصویرگر.svg"
+    "avatar": "avatars/design_32_غزاله_تصویرگر.jpg"
   },
   {
     "name": "سروش انیماتور",
@@ -404,7 +404,7 @@
     "engagement": "7.3%",
     "role": "فعال حوزه تصویرسازی و کاراکتر",
     "verified": true,
-    "avatar": "avatars/design_33_سروش_انیماتور.svg"
+    "avatar": "avatars/design_33_سروش_انیماتور.jpg"
   },
   {
     "name": "طناز دیزاین‌لب",
@@ -415,7 +415,7 @@
     "engagement": "7.7%",
     "role": "فعال حوزه برندینگ و تایپوگرافی",
     "verified": false,
-    "avatar": "avatars/design_34_طناز_دیزاینلب.svg"
+    "avatar": "avatars/design_34_طناز_دیزاینلب.jpg"
   },
   {
     "name": "همایون رندرینگ",
@@ -426,7 +426,7 @@
     "engagement": "7.1%",
     "role": "فعال حوزه دیزاین سیستم و فیگما",
     "verified": false,
-    "avatar": "avatars/design_35_همایون_رندرینگ.svg"
+    "avatar": "avatars/design_35_همایون_رندرینگ.jpg"
   },
   {
     "name": "رکسانا لوگو",
@@ -437,7 +437,7 @@
     "engagement": "6.9%",
     "role": "فعال حوزه طراحی محصول و UI/UX",
     "verified": false,
-    "avatar": "avatars/design_36_رکسانا_لوگو.svg"
+    "avatar": "avatars/design_36_رکسانا_لوگو.jpg"
   },
   {
     "name": "حمیدرضا ویژوال",
@@ -448,7 +448,7 @@
     "engagement": "7.8%",
     "role": "فعال حوزه موشن دیزاین و سه‌بعدی",
     "verified": true,
-    "avatar": "avatars/design_37_حمیدرضا_ویژوال.svg"
+    "avatar": "avatars/design_37_حمیدرضا_ویژوال.jpg"
   },
   {
     "name": "شبنم یوایکس‌پژوه",
@@ -459,7 +459,7 @@
     "engagement": "8.4%",
     "role": "فعال حوزه تصویرسازی و کاراکتر",
     "verified": false,
-    "avatar": "avatars/design_38_شبنم_یوایکسپژوه.svg"
+    "avatar": "avatars/design_38_شبنم_یوایکسپژوه.jpg"
   },
   {
     "name": "مسعود استوری‌برد",
@@ -470,7 +470,7 @@
     "engagement": "8.4%",
     "role": "فعال حوزه برندینگ و تایپوگرافی",
     "verified": false,
-    "avatar": "avatars/design_39_مسعود_استوریبرد.svg"
+    "avatar": "avatars/design_39_مسعود_استوریبرد.jpg"
   },
   {
     "name": "فائزه دیزاین",
@@ -481,7 +481,7 @@
     "engagement": "5.5%",
     "role": "فعال حوزه دیزاین سیستم و فیگما",
     "verified": false,
-    "avatar": "avatars/design_40_فائزه_دیزاین.svg"
+    "avatar": "avatars/design_40_فائزه_دیزاین.jpg"
   },
   {
     "name": "شایان موشن‌کرافت",
@@ -492,7 +492,7 @@
     "engagement": "5.8%",
     "role": "فعال حوزه طراحی محصول و UI/UX",
     "verified": true,
-    "avatar": "avatars/design_41_شایان_موشنکرافت.svg"
+    "avatar": "avatars/design_41_شایان_موشنکرافت.jpg"
   },
   {
     "name": "کتایون تایپ",
@@ -503,7 +503,7 @@
     "engagement": "8.0%",
     "role": "فعال حوزه موشن دیزاین و سه‌بعدی",
     "verified": false,
-    "avatar": "avatars/design_42_کتایون_تایپ.svg"
+    "avatar": "avatars/design_42_کتایون_تایپ.jpg"
   },
   {
     "name": "وحید بلندرچی",
@@ -514,7 +514,7 @@
     "engagement": "3.8%",
     "role": "فعال حوزه تصویرسازی و کاراکتر",
     "verified": false,
-    "avatar": "avatars/design_43_وحید_بلندرچی.svg"
+    "avatar": "avatars/design_43_وحید_بلندرچی.jpg"
   },
   {
     "name": "لیلا آرت‌پورتفولیو",
@@ -525,7 +525,7 @@
     "engagement": "3.8%",
     "role": "فعال حوزه برندینگ و تایپوگرافی",
     "verified": false,
-    "avatar": "avatars/design_44_لیلا_آرتپورتفول.svg"
+    "avatar": "avatars/design_44_لیلا_آرتپورتفول.jpg"
   },
   {
     "name": "امیرحسین کاراکترمن",
@@ -536,7 +536,7 @@
     "engagement": "7.4%",
     "role": "فعال حوزه دیزاین سیستم و فیگما",
     "verified": true,
-    "avatar": "avatars/design_45_امیرحسین_کاراکت.svg"
+    "avatar": "avatars/design_45_امیرحسین_کاراکت.jpg"
   },
   {
     "name": "هانیه گرید",
@@ -547,7 +547,7 @@
     "engagement": "5.1%",
     "role": "فعال حوزه طراحی محصول و UI/UX",
     "verified": false,
-    "avatar": "avatars/design_46_هانیه_گرید.svg"
+    "avatar": "avatars/design_46_هانیه_گرید.jpg"
   },
   {
     "name": "مهدی وی‌اف‌ایکس",
@@ -558,7 +558,7 @@
     "engagement": "5.1%",
     "role": "فعال حوزه موشن دیزاین و سه‌بعدی",
     "verified": false,
-    "avatar": "avatars/design_47_مهدی_ویافایکس.svg"
+    "avatar": "avatars/design_47_مهدی_ویافایکس.jpg"
   },
   {
     "name": "پریناز دیزاین‌سیس",
@@ -569,7 +569,7 @@
     "engagement": "4.3%",
     "role": "فعال حوزه تصویرسازی و کاراکتر",
     "verified": false,
-    "avatar": "avatars/design_48_پریناز_دیزاینسی.svg"
+    "avatar": "avatars/design_48_پریناز_دیزاینسی.jpg"
   },
   {
     "name": "بهنام وکتورآرت",
@@ -580,7 +580,7 @@
     "engagement": "6.7%",
     "role": "فعال حوزه برندینگ و تایپوگرافی",
     "verified": true,
-    "avatar": "avatars/design_49_بهنام_وکتورآرت.svg"
+    "avatar": "avatars/design_49_بهنام_وکتورآرت.jpg"
   },
   {
     "name": "افسانه موشن",
@@ -591,7 +591,7 @@
     "engagement": "8.0%",
     "role": "فعال حوزه دیزاین سیستم و فیگما",
     "verified": false,
-    "avatar": "avatars/design_50_افسانه_موشن.svg"
+    "avatar": "avatars/design_50_افسانه_موشن.jpg"
   },
   {
     "name": "سام سه‌بعدی",
@@ -602,7 +602,7 @@
     "engagement": "5.1%",
     "role": "فعال حوزه طراحی محصول و UI/UX",
     "verified": false,
-    "avatar": "avatars/design_51_سام_سهبعدی.svg"
+    "avatar": "avatars/design_51_سام_سهبعدی.jpg"
   },
   {
     "name": "صبا رابط‌کاربر",
@@ -613,7 +613,7 @@
     "engagement": "5.6%",
     "role": "فعال حوزه موشن دیزاین و سه‌بعدی",
     "verified": false,
-    "avatar": "avatars/design_52_صبا_رابطکاربر.svg"
+    "avatar": "avatars/design_52_صبا_رابطکاربر.jpg"
   },
   {
     "name": "پدرام هویت‌بصری",
@@ -624,7 +624,7 @@
     "engagement": "3.8%",
     "role": "فعال حوزه تصویرسازی و کاراکتر",
     "verified": true,
-    "avatar": "avatars/design_53_پدرام_هویتبصری.svg"
+    "avatar": "avatars/design_53_پدرام_هویتبصری.jpg"
   },
   {
     "name": "نسیم فلت",
@@ -635,7 +635,7 @@
     "engagement": "7.9%",
     "role": "فعال حوزه برندینگ و تایپوگرافی",
     "verified": false,
-    "avatar": "avatars/design_54_نسیم_فلت.svg"
+    "avatar": "avatars/design_54_نسیم_فلت.jpg"
   },
   {
     "name": "کیوان براش",
@@ -646,7 +646,7 @@
     "engagement": "3.7%",
     "role": "فعال حوزه دیزاین سیستم و فیگما",
     "verified": false,
-    "avatar": "avatars/design_55_کیوان_براش.svg"
+    "avatar": "avatars/design_55_کیوان_براش.jpg"
   },
   {
     "name": "فرناز فیگماپرو",
@@ -657,7 +657,7 @@
     "engagement": "4.8%",
     "role": "فعال حوزه طراحی محصول و UI/UX",
     "verified": false,
-    "avatar": "avatars/design_56_فرناز_فیگماپرو.svg"
+    "avatar": "avatars/design_56_فرناز_فیگماپرو.jpg"
   },
   {
     "name": "مصطفی دیجیتال‌آرت",
@@ -668,7 +668,7 @@
     "engagement": "4.3%",
     "role": "فعال حوزه موشن دیزاین و سه‌بعدی",
     "verified": true,
-    "avatar": "avatars/design_57_مصطفی_دیجیتالآر.svg"
+    "avatar": "avatars/design_57_مصطفی_دیجیتالآر.jpg"
   },
   {
     "name": "عسل تصویرنما",
@@ -679,7 +679,7 @@
     "engagement": "4.0%",
     "role": "فعال حوزه تصویرسازی و کاراکتر",
     "verified": false,
-    "avatar": "avatars/design_58_عسل_تصویرنما.svg"
+    "avatar": "avatars/design_58_عسل_تصویرنما.jpg"
   },
   {
     "name": "یاشار دیزاین‌استار",
@@ -690,7 +690,7 @@
     "engagement": "6.2%",
     "role": "فعال حوزه برندینگ و تایپوگرافی",
     "verified": false,
-    "avatar": "avatars/design_59_یاشار_دیزایناست.svg"
+    "avatar": "avatars/design_59_یاشار_دیزایناست.jpg"
   },
   {
     "name": "سپیده کاراکتر",
@@ -701,7 +701,7 @@
     "engagement": "7.4%",
     "role": "فعال حوزه دیزاین سیستم و فیگما",
     "verified": false,
-    "avatar": "avatars/design_60_سپیده_کاراکتر.svg"
+    "avatar": "avatars/design_60_سپیده_کاراکتر.jpg"
   },
   {
     "name": "سیاوش ویژوالایز",
@@ -712,7 +712,7 @@
     "engagement": "3.3%",
     "role": "فعال حوزه طراحی محصول و UI/UX",
     "verified": true,
-    "avatar": "avatars/design_61_سیاوش_ویژوالایز.svg"
+    "avatar": "avatars/design_61_سیاوش_ویژوالایز.jpg"
   },
   {
     "name": "مهتا پترن",
@@ -723,7 +723,7 @@
     "engagement": "5.6%",
     "role": "فعال حوزه موشن دیزاین و سه‌بعدی",
     "verified": false,
-    "avatar": "avatars/design_62_مهتا_پترن.svg"
+    "avatar": "avatars/design_62_مهتا_پترن.jpg"
   },
   {
     "name": "بردیا موشن‌باز",
@@ -734,7 +734,7 @@
     "engagement": "3.3%",
     "role": "فعال حوزه تصویرسازی و کاراکتر",
     "verified": false,
-    "avatar": "avatars/design_63_بردیا_موشنباز.svg"
+    "avatar": "avatars/design_63_بردیا_موشنباز.jpg"
   },
   {
     "name": "روژین یوایکس",
@@ -745,7 +745,7 @@
     "engagement": "5.0%",
     "role": "فعال حوزه برندینگ و تایپوگرافی",
     "verified": false,
-    "avatar": "avatars/design_64_روژین_یوایکس.svg"
+    "avatar": "avatars/design_64_روژین_یوایکس.jpg"
   },
   {
     "name": "داریوش تایپ‌لب",
@@ -756,7 +756,7 @@
     "engagement": "5.0%",
     "role": "فعال حوزه دیزاین سیستم و فیگما",
     "verified": true,
-    "avatar": "avatars/design_65_داریوش_تایپلب.svg"
+    "avatar": "avatars/design_65_داریوش_تایپلب.jpg"
   },
   {
     "name": "سیمین لایه‌باز",
@@ -767,7 +767,7 @@
     "engagement": "7.8%",
     "role": "فعال حوزه طراحی محصول و UI/UX",
     "verified": false,
-    "avatar": "avatars/design_66_سیمین_لایهباز.svg"
+    "avatar": "avatars/design_66_سیمین_لایهباز.jpg"
   },
   {
     "name": "فرزین ادوبی",
@@ -778,7 +778,7 @@
     "engagement": "7.5%",
     "role": "فعال حوزه موشن دیزاین و سه‌بعدی",
     "verified": false,
-    "avatar": "avatars/design_67_فرزین_ادوبی.svg"
+    "avatar": "avatars/design_67_فرزین_ادوبی.jpg"
   },
   {
     "name": "آوا موشن‌گراف",
@@ -789,7 +789,7 @@
     "engagement": "6.8%",
     "role": "فعال حوزه تصویرسازی و کاراکتر",
     "verified": false,
-    "avatar": "avatars/design_68_آوا_موشنگراف.svg"
+    "avatar": "avatars/design_68_آوا_موشنگراف.jpg"
   },
   {
     "name": "شروین دیزاینر",
@@ -800,7 +800,7 @@
     "engagement": "5.3%",
     "role": "فعال حوزه برندینگ و تایپوگرافی",
     "verified": true,
-    "avatar": "avatars/design_69_شروین_دیزاینر.svg"
+    "avatar": "avatars/design_69_شروین_دیزاینر.jpg"
   },
   {
     "name": "مروارید آرت‌باکس",
@@ -811,7 +811,7 @@
     "engagement": "6.7%",
     "role": "فعال حوزه دیزاین سیستم و فیگما",
     "verified": false,
-    "avatar": "avatars/design_70_مروارید_آرتباکس.svg"
+    "avatar": "avatars/design_70_مروارید_آرتباکس.jpg"
   },
   {
     "name": "پویان ویژوال",
@@ -822,7 +822,7 @@
     "engagement": "8.1%",
     "role": "فعال حوزه طراحی محصول و UI/UX",
     "verified": false,
-    "avatar": "avatars/design_71_پویان_ویژوال.svg"
+    "avatar": "avatars/design_71_پویان_ویژوال.jpg"
   },
   {
     "name": "شهروز کاراکترساز",
@@ -833,7 +833,7 @@
     "engagement": "6.7%",
     "role": "فعال حوزه موشن دیزاین و سه‌بعدی",
     "verified": false,
-    "avatar": "avatars/design_72_شهروز_کاراکترسا.svg"
+    "avatar": "avatars/design_72_شهروز_کاراکترسا.jpg"
   },
   {
     "name": "آیدا تایپوآرت",
@@ -844,7 +844,7 @@
     "engagement": "5.9%",
     "role": "فعال حوزه تصویرسازی و کاراکتر",
     "verified": true,
-    "avatar": "avatars/design_73_آیدا_تایپوآرت.svg"
+    "avatar": "avatars/design_73_آیدا_تایپوآرت.jpg"
   },
   {
     "name": "فرهنگ فیگماکار",
@@ -855,7 +855,7 @@
     "engagement": "5.4%",
     "role": "فعال حوزه برندینگ و تایپوگرافی",
     "verified": false,
-    "avatar": "avatars/design_74_فرهنگ_فیگماکار.svg"
+    "avatar": "avatars/design_74_فرهنگ_فیگماکار.jpg"
   },
   {
     "name": "کیانا موشن‌استودیو",
@@ -866,7 +866,7 @@
     "engagement": "6.3%",
     "role": "فعال حوزه دیزاین سیستم و فیگما",
     "verified": false,
-    "avatar": "avatars/design_75_کیانا_موشناستود.svg"
+    "avatar": "avatars/design_75_کیانا_موشناستود.jpg"
   },
   {
     "name": "پرهام انیمیت",
@@ -877,7 +877,7 @@
     "engagement": "5.9%",
     "role": "فعال حوزه طراحی محصول و UI/UX",
     "verified": false,
-    "avatar": "avatars/design_76_پرهام_انیمیت.svg"
+    "avatar": "avatars/design_76_پرهام_انیمیت.jpg"
   },
   {
     "name": "ملیکا یوآی‌کیت",
@@ -888,7 +888,7 @@
     "engagement": "3.4%",
     "role": "فعال حوزه موشن دیزاین و سه‌بعدی",
     "verified": true,
-    "avatar": "avatars/design_77_ملیکا_یوآیکیت.svg"
+    "avatar": "avatars/design_77_ملیکا_یوآیکیت.jpg"
   },
   {
     "name": "کیارش برندکده",
@@ -899,7 +899,7 @@
     "engagement": "7.5%",
     "role": "فعال حوزه تصویرسازی و کاراکتر",
     "verified": false,
-    "avatar": "avatars/design_78_کیارش_برندکده.svg"
+    "avatar": "avatars/design_78_کیارش_برندکده.jpg"
   },
   {
     "name": "درسا رندرباکس",
@@ -910,7 +910,7 @@
     "engagement": "6.2%",
     "role": "فعال حوزه برندینگ و تایپوگرافی",
     "verified": false,
-    "avatar": "avatars/design_79_درسا_رندرباکس.svg"
+    "avatar": "avatars/design_79_درسا_رندرباکس.jpg"
   },
   {
     "name": "رامین گرافیکال",
@@ -921,7 +921,7 @@
     "engagement": "3.6%",
     "role": "فعال حوزه دیزاین سیستم و فیگما",
     "verified": false,
-    "avatar": "avatars/design_80_رامین_گرافیکال.svg"
+    "avatar": "avatars/design_80_رامین_گرافیکال.jpg"
   },
   {
     "name": "پانته‌آ اسکلتون",
@@ -932,7 +932,7 @@
     "engagement": "5.3%",
     "role": "فعال حوزه طراحی محصول و UI/UX",
     "verified": true,
-    "avatar": "avatars/design_81_پانتهآ_اسکلتون.svg"
+    "avatar": "avatars/design_81_پانتهآ_اسکلتون.jpg"
   },
   {
     "name": "مانی استایل‌گاید",
@@ -943,7 +943,7 @@
     "engagement": "5.9%",
     "role": "فعال حوزه موشن دیزاین و سه‌بعدی",
     "verified": false,
-    "avatar": "avatars/design_82_مانی_استایلگاید.svg"
+    "avatar": "avatars/design_82_مانی_استایلگاید.jpg"
   },
   {
     "name": "شقایق کالرپالت",
@@ -954,7 +954,7 @@
     "engagement": "6.9%",
     "role": "فعال حوزه تصویرسازی و کاراکتر",
     "verified": false,
-    "avatar": "avatars/design_83_شقایق_کالرپالت.svg"
+    "avatar": "avatars/design_83_شقایق_کالرپالت.jpg"
   },
   {
     "name": "سهراب کانسپچوال",
@@ -965,7 +965,7 @@
     "engagement": "6.7%",
     "role": "فعال حوزه برندینگ و تایپوگرافی",
     "verified": false,
-    "avatar": "avatars/design_84_سهراب_کانسپچوال.svg"
+    "avatar": "avatars/design_84_سهراب_کانسپچوال.jpg"
   },
   {
     "name": "نسترن لترینگ",
@@ -976,7 +976,7 @@
     "engagement": "8.0%",
     "role": "فعال حوزه دیزاین سیستم و فیگما",
     "verified": true,
-    "avatar": "avatars/design_85_نسترن_لترینگ.svg"
+    "avatar": "avatars/design_85_نسترن_لترینگ.jpg"
   },
   {
     "name": "امیرعلی فریم‌ورک",
@@ -987,7 +987,7 @@
     "engagement": "8.0%",
     "role": "فعال حوزه طراحی محصول و UI/UX",
     "verified": false,
-    "avatar": "avatars/design_86_امیرعلی_فریمورک.svg"
+    "avatar": "avatars/design_86_امیرعلی_فریمورک.jpg"
   },
   {
     "name": "نازنین دیزاین‌بیس",
@@ -998,7 +998,7 @@
     "engagement": "6.6%",
     "role": "فعال حوزه موشن دیزاین و سه‌بعدی",
     "verified": false,
-    "avatar": "avatars/design_87_نازنین_دیزاینبی.svg"
+    "avatar": "avatars/design_87_نازنین_دیزاینبی.jpg"
   },
   {
     "name": "سینا موشن‌مستر",
@@ -1009,7 +1009,7 @@
     "engagement": "8.3%",
     "role": "فعال حوزه تصویرسازی و کاراکتر",
     "verified": false,
-    "avatar": "avatars/design_88_سینا_موشنمستر.svg"
+    "avatar": "avatars/design_88_سینا_موشنمستر.jpg"
   },
   {
     "name": "مهتاب برندیفای",
@@ -1020,7 +1020,7 @@
     "engagement": "4.9%",
     "role": "فعال حوزه برندینگ و تایپوگرافی",
     "verified": true,
-    "avatar": "avatars/design_89_مهتاب_برندیفای.svg"
+    "avatar": "avatars/design_89_مهتاب_برندیفای.jpg"
   },
   {
     "name": "کوروش آرتیست",
@@ -1031,7 +1031,7 @@
     "engagement": "7.4%",
     "role": "فعال حوزه دیزاین سیستم و فیگما",
     "verified": false,
-    "avatar": "avatars/design_90_کوروش_آرتیست.svg"
+    "avatar": "avatars/design_90_کوروش_آرتیست.jpg"
   },
   {
     "name": "روژان فیگماتیپ",
@@ -1042,7 +1042,7 @@
     "engagement": "5.4%",
     "role": "فعال حوزه طراحی محصول و UI/UX",
     "verified": false,
-    "avatar": "avatars/design_91_روژان_فیگماتیپ.svg"
+    "avatar": "avatars/design_91_روژان_فیگماتیپ.jpg"
   },
   {
     "name": "آرین وکتورمن",
@@ -1053,7 +1053,7 @@
     "engagement": "8.2%",
     "role": "فعال حوزه موشن دیزاین و سه‌بعدی",
     "verified": false,
-    "avatar": "avatars/design_92_آرین_وکتورمن.svg"
+    "avatar": "avatars/design_92_آرین_وکتورمن.jpg"
   },
   {
     "name": "سیمین دیزاین‌هاوس",
@@ -1064,7 +1064,7 @@
     "engagement": "4.0%",
     "role": "فعال حوزه تصویرسازی و کاراکتر",
     "verified": true,
-    "avatar": "avatars/design_93_سیمین_دیزاینهاو.svg"
+    "avatar": "avatars/design_93_سیمین_دیزاینهاو.jpg"
   },
   {
     "name": "پگاه تایپ‌دیزاین",
@@ -1075,7 +1075,7 @@
     "engagement": "7.9%",
     "role": "فعال حوزه برندینگ و تایپوگرافی",
     "verified": false,
-    "avatar": "avatars/design_94_پگاه_تایپدیزاین.svg"
+    "avatar": "avatars/design_94_پگاه_تایپدیزاین.jpg"
   },
   {
     "name": "ارشیا موشن‌ورلد",
@@ -1086,7 +1086,7 @@
     "engagement": "4.8%",
     "role": "فعال حوزه دیزاین سیستم و فیگما",
     "verified": false,
-    "avatar": "avatars/design_95_ارشیا_موشنورلد.svg"
+    "avatar": "avatars/design_95_ارشیا_موشنورلد.jpg"
   },
   {
     "name": "پرستو انیماتور",
@@ -1097,6 +1097,6 @@
     "engagement": "8.3%",
     "role": "فعال حوزه طراحی محصول و UI/UX",
     "verified": false,
-    "avatar": "avatars/design_96_پرستو_انیماتور.svg"
+    "avatar": "avatars/design_96_پرستو_انیماتور.jpg"
   }
 ]
