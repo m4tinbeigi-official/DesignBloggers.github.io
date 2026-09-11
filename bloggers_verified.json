@@ -1,0 +1,34 @@
+[
+  {
+    "name": "صالح تسبیحی (طراحی و هنر)",
+    "handle": "salehtasbihi",
+    "category": "برندینگ و تایپوگرافی",
+    "role": "طراح گرافیک و منتقد",
+    "bio": "طراح گرافیک، آموزش تایپوگرافی معاصر، نقد هویت بصری و پوستر.",
+    "avatar": "avatars/salehtasbihi.jpg"
+  },
+  {
+    "name": "مریم رضایی (Product Design)",
+    "handle": "maryam_ux",
+    "category": "طراحی محصول و UI/UX",
+    "role": "طراح ارشد تجربه کاربری",
+    "bio": "آموزش متدهای کاربرپژوهی و ساخت دیزاین سیستم در فیگما.",
+    "avatar": "avatars/maryam_ux.jpg"
+  },
+  {
+    "name": "امیر موشن (Motion Lab)",
+    "handle": "amirmotion_lab",
+    "category": "موشن دیزاین و سه‌بعدی",
+    "role": "کارگردان هنری موشن",
+    "bio": "کارگردانی هنری و تولید تیزرهای موشن سه‌بعدی با سینمافوردی و بلندر.",
+    "avatar": "avatars/amirmotion_lab.jpg"
+  },
+  {
+    "name": "استودیو کاراکتر دیزاین",
+    "handle": "persian_illustration",
+    "category": "تصویرسازی و کاراکتر",
+    "role": "تصویرساز دیجیتال",
+    "bio": "آموزش نقاشی دیجیتال، خلق کاراکتر و کانسپت آرت.",
+    "avatar": "avatars/persian_illustration.jpg"
+  }
+]
